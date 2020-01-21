@@ -47,23 +47,59 @@ table {
 	border-spacing: 0;
 }
 
+a {
+    color: #3e3e3e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #202020;
+    text-decoration: underline;
+}
+
 .header {
-    display: inline-flex;
-    padding: 0 30 0 30;
+    display: inline;
+    padding: 10 30 0 30;
+    position: absolute;
+    top: 0;
+    width: 98%;
+}
+
+#main {
+    margin-top: 20%;
+    margin-left: 35%;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 .footer {
-    display: inline-flex;
-    padding: 0 30 0 30;
+    display: inline;
     background-color: #dbdbdb;
-    postion: absolute;
-    bottom: 100;
+    padding: 15 5 5 5;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
-#fright {
+.left{
+    float: left;
+}
+
+.right {
     float: right;
 }
 
 .nav {
-    margin: 0 8 0 0;
+    margin: 0 15 0 5;
+
+}
+
+.submit {
+    positon: absolute;
+    margin: 30 0 0 70;
+}
+
+#logo {
+    margin-left: 13%; 
 }
