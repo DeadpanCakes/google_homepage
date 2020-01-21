@@ -51,3 +51,8 @@ table {
     display: inline-flex;
     padding: 5;
 }
+
+.footer {
+    display: inline-flex;
+    padding:5;
+}
