@@ -49,10 +49,21 @@ table {
 
 .header {
     display: inline-flex;
-    padding: 5;
+    padding: 0 30 0 30;
 }
 
 .footer {
     display: inline-flex;
-    padding:5;
+    padding: 0 30 0 30;
+    background-color: #dbdbdb;
+    postion: absolute;
+    bottom: 100;
+}
+
+#fright {
+    float: right;
+}
+
+.nav {
+    margin: 0 8 0 0;
 }
