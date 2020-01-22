@@ -58,9 +58,9 @@ a:hover {
 }
 
 #search {
-    border-radius: 5px;
+    border-radius: 50px;
     box-shadow:inset 5 5 5 5;
-		       
+    height: 40;
 }
 
 .header {
