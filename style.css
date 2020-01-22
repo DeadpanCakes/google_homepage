@@ -57,16 +57,22 @@ a:hover {
     text-decoration: underline;
 }
 
+#search {
+    border-radius: 5px;
+    box-shadow:inset 5 5 5 5;
+		       
+}
+
 .header {
     display: inline;
     padding: 10 30 0 30;
     position: absolute;
     top: 0;
-    width: 98%;
+    width: 97%;
 }
 
 #main {
-    margin-top: 20%;
+    margin-top: 13%;
     margin-left: 35%;
     margin-right: auto;
     width: 50%;
@@ -91,7 +97,7 @@ a:hover {
 }
 
 .nav {
-    margin: 0 15 0 5;
+    padding: 0 15 0 5;
 
 }
 
