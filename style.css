@@ -78,6 +78,12 @@ input[type=text] {
     width: 97%;
 }
 
+#account {
+    border: none;
+    padding: 10 10 10 10;
+    background-color: #2c80d4;
+}
+
 #main {
     margin-top: 13%;
     margin-left: 35%;
