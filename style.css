@@ -91,10 +91,11 @@ input[type=text] {
 
 #account{
     border: none;
-    padding: 10 10 10 10;
+    padding: 5 15 5 15;
     background-color: #2c80d4;
     color: white;
     text-decoration: none;
+    border-radius: 5%;
 }
 
 a:hover#account {
