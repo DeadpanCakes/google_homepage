@@ -35,6 +35,13 @@ nav li {
     width: 10px;
 }
 
+.primary {
+    border: 1px solid gray;
+    display: inline-block;
+    height: fit-content;
+    width: fit-content;
+}
+
 .site {
     padding: 5px 10px;
     height: fit-content;
