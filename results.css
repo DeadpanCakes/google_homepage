@@ -35,6 +35,17 @@ header {
     width: 100%;
 }
 
+#search{
+    height: 40px;
+    width: 800px;
+    border-radius: 50px;
+    border: 2px solid #dbdbdb;
+}
+
+input[type=text] {
+    padding-left: 10px;
+}
+
 ul, ol {
     list-style-type: none;
 }
