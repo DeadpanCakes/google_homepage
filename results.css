@@ -45,7 +45,17 @@ header {
 
 }
 
-#search{
+#follow {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+
+nav {
+    padding-top: 70px;
+}
+
+#search {
     height: 40px;
     width: 800px;
     border-radius: 50px;
