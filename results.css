@@ -35,6 +35,16 @@ header {
     width: 100%;
 }
 
+#logo {
+    height: 40px;
+    width: auto;
+}
+
+.ctrl {
+    display: inline-block;
+
+}
+
 #search{
     height: 40px;
     width: 800px;
@@ -44,6 +54,11 @@ header {
 
 input[type=text] {
     padding-left: 10px;
+}
+
+input[type=image] {
+    position: relative;
+    right: 40px;    
 }
 
 ul, ol {
