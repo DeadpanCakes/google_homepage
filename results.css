@@ -41,3 +41,7 @@ nav li {
     width: fit-content;
     display: inline-block;
 }
+
+.blurb {
+    width: 800px;
+}
