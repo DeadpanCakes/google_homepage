@@ -30,13 +30,17 @@ time, mark, audio, video {
     vertical-align: baseline;
 }
 
+body {
+    font-family: Arial, sans-serif;
+}
+
 header {
     border-bottom: 2px solid gray;
     width: 100%;
 }
 
 #core {
-    margin: 10px 0 0 10px;
+    margin: 20px 0 0 120px;
 }
 
 #logo {
@@ -99,10 +103,12 @@ nav li {
 }
 
 .primary {
-    border: 1px solid gray;
+    border: 1.5px solid lightgray;
     display: inline-block;
     height: fit-content;
     width: fit-content;
+    border-radius: 10px 10px;
+    padding: 10px 5px 10px 5px;
 }
 
 .site {
