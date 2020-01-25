@@ -143,8 +143,16 @@ nav li {
 }
 
 .sugg {
-    border: 1px solid gray;
+    border: 1px solid lightgray;
     padding: 10px 0 10px 5px;
+}
+
+.sugg-table {
+    border-radius: 10px 10px 0 0;
+}
+
+.sugg-table1 {
+    border-radius: 0 0 10px 10px ;
 }
 
 .related {
