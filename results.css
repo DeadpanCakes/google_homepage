@@ -82,6 +82,7 @@ ul, ol {
 
 a, a:hover {
     text-decoration: none;
+    color: #3b3b3b;
 }
 
 nav li {
