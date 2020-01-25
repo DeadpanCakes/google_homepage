@@ -38,11 +38,12 @@ header {
 #logo {
     height: 40px;
     width: auto;
+    display: inline-block;
 }
 
 .ctrl {
     display: inline-block;
-
+    padding-bottom: 5px;
 }
 
 #follow {
@@ -112,4 +113,8 @@ nav li {
 
 .sugg {
     border: 1px solid gray;
+}
+
+.related {
+    display: inline-block;
 }
