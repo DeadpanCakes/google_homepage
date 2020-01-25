@@ -35,6 +35,10 @@ header {
     width: 100%;
 }
 
+#core {
+    margin: 10px 0 0 10px;
+}
+
 #logo {
     height: 40px;
     width: auto;
@@ -105,6 +109,11 @@ nav li {
     height: fit-content;
     width: fit-content;
     display: inline-block;
+}
+
+.site h3 {
+    color: blue;
+    font-size: 1.5em;
 }
 
 .result {
