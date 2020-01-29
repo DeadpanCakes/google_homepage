@@ -44,7 +44,7 @@ header {
 }
 
 #core {
-    margin: 20px 0 0 120px;
+    margin: 20px 0 0 170px;
 }
 
 li {
@@ -75,7 +75,7 @@ li {
 }
 
 nav {
-    padding-top: 70px;
+    padding-top: 110px;
 }
 
 #search {
@@ -109,7 +109,7 @@ nav li {
 }
 
 .primary-nav {
-    padding-left: 120px;
+    padding-left: 170px;
 }
 
 .primary-nav li {
