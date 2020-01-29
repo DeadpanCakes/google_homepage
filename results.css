@@ -148,10 +148,6 @@ nav li {
     width: 150px;
 }
 
-/*.vidlink {
-   margin-top: 180;
-}
-*/
 .site {
     padding: 10px 10px;
     height: fit-content;
@@ -185,7 +181,19 @@ nav li {
     display: inline-block;
 }
 
+.info {
+    padding-left: 170px;
+}
+
 footer {
     border-top: 1px solid lightgray;
     background-color: #f0f0f0;
+}
+
+footer nav{
+    padding-top: 20px;
+}
+
+#inquiry {
+    padding-left: 170px;
 }
