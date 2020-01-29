@@ -61,6 +61,20 @@ li {
     top: 23%;
 }
 
+#account {
+    float: right;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+
+#signin {
+    background-color: #2c80d4;
+    border: #2c80d4;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+
 .ctrl {
     display: inline-block;
     padding-bottom: 5px;
