@@ -157,9 +157,20 @@ nav li {
     display: inline-block;
 }
 
-.test5 {
-    height: 150px;
-    width: 150px;
+.videos a {
+    color: blue;
+}
+
+.videos a:hover {
+    text-decoration: blue underline;
+}
+
+.vidpre {
+    height: auto;
+    width: 195px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 2px;
 }
 
 .site {
