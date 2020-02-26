@@ -144,3 +144,22 @@ a:hover#account {
 #logo {
     margin-left: 13%; 
 }
+
+#pageContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+#headerContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+#mainContainer {
+    display: grid;
+}
+
+#footerContainer {
+    display: flex;
+    flex-direction: row;
+}
