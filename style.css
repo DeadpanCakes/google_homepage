@@ -70,14 +70,6 @@ input[type=text] {
     border-color: #dbdbdb;
 }
 
-/* .header {
-    display: inline;
-    padding: 10 30 0 30;
-    position: absolute;
-    top: 6;
-    width: 97%;
-} */
-
 .header button{
     border: none;
     background: none;
@@ -101,43 +93,14 @@ a:hover#account {
     text-decoration: none;
 }
 
-#main {
-    /* margin-top: 13%;
-    margin-left: 35%;
-    margin-right: auto;
-    width: 50%;
-    padding: 10px; */
-}
-
 .footer {
-    /* display: inline; */
     background-color: #dbdbdb;
-    /* padding: 15 5 5 5;
-    position: absolute;
-    bottom: 0;
-    width: 100%; */
 }
-
-.left{
-    float: left;
-}
-
-.right {
-    float: right;y
-}
-
-/* .nav {
-    padding: 0 15 0 5;
-
-} */
 
  .submit {
-    /* positon: absolute;
-    margin: 30 0 0 83; */
     border: none;
     padding: 10 10 10 10;
     background-color: #dbdbdb;
-    /* display: inline; */
 }
 
  #logo {
