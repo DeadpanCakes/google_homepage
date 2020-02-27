@@ -134,6 +134,7 @@ a:hover#account {
     align-self: center;
     justify-content: flex-start;
     align-content: center;
+    flex-basis: 80%;
 }
 
 #logoContainer {
@@ -152,14 +153,18 @@ a:hover#account {
 }
 
 #footer {
-    flex-basis: 10%;
+    flex-basis: 5%;
+    background-color: #dbdbdb;
+    border-top: 1px solid #c9c9c9;
 }
 
 #footerContainer {
     display: flex;
     flex-direction: row;
-    flex-basis: 10%;
+    flex-basis: 5%;
     justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
 }
 
 .left, .right {
