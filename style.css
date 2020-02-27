@@ -100,7 +100,8 @@ a:hover#account {
  .submit {
     border: none;
     padding: 10 10 10 10;
-    background-color: #dbdbdb;
+    background-color: #ebebeb;
+    color: #616161;
 }
 
  #logo {
@@ -147,7 +148,7 @@ a:hover#account {
 
 #buttonContainer {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 #footer {
@@ -163,4 +164,10 @@ a:hover#account {
 
 .left, .right {
     display: flex;
+}
+
+button {
+    padding: 10px 15px;
+    margin-top: 20px;
+    margin-left: 10px;
 }
