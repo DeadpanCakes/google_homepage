@@ -118,7 +118,7 @@ a:hover#account {
 
 #header {
     flex-basis: 25%;
-
+    padding-top: 15px;
 }
 
 #headerContainer {
