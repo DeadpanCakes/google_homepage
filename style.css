@@ -182,3 +182,7 @@ button {
     height: 1.3em;
     width: 1.3em;
 }
+
+li {
+    padding: 5px;
+}
