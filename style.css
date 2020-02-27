@@ -114,7 +114,7 @@ a:hover#account {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-between
+    justify-content: space-between;
 }
 
 #header {
@@ -126,6 +126,7 @@ a:hover#account {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 5px;
 }
 
 #mainContainer {
@@ -166,10 +167,12 @@ a:hover#account {
     justify-content: space-between;
     align-items: center;
     margin-top: 15px;
+    padding: 5px;
 }
 
 .left, .right {
     display: flex;
+    flex-wrap: wrap;
 }
 
 button {
